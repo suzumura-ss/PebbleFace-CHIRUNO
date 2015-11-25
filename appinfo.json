@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "smoche.info",
+    "longName": "CHIRUNO",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/screenshot.png",
+                "menuIcon": true,
+                "name": "SCREEN_SHOT",
+                "type": "png"
+            },
+            {
+                "file": "images/chiruno.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "CHIRUNO",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "15a203c8-dd21-4ed7-b372-adf2f05c22d9",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
